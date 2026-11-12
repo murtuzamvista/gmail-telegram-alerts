@@ -1,0 +1,25 @@
+# Google Apps Script CLI (clasp) local project & auth files
+.clasp.json
+.clasprc.json
+
+# Environment variables & local secrets
+.env
+.env.local
+*.env
+
+# Node / Package managers (if using clasp or TypeScript locally)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
