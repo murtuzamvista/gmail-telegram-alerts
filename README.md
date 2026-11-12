@@ -1,4 +1,4 @@
-# Gmail to Telegram Email Alert Automation
+# Gmail to Telegram Alert Automation
 
 A lightweight, serverless Google Apps Script that monitors your Gmail inbox for unread emails from a specific sender and sends an instant notification to Telegram—while keeping your emails unread and enforcing strict read-only permissions.
 
