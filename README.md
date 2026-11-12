@@ -78,6 +78,26 @@ gmail-telegram-alerts/
 
 ---
 
+## Setting a Custom Notification Tone for Immediate Alerts
+To distinguish these email alerts from regular messages—and ensure they grab your attention immediately—assign a dedicated ringtone or alarm sound to your bot's chat in Telegram.
+
+### On Android
+1. Open the chat with your Telegram bot.
+2. Tap the **bot's name** at the top of the screen to open its profile.
+3. Tap **Notifications** > **Customize** (or **Custom Notifications**).
+4. Enable **Use custom notifications**.
+5. Tap **Sound** and choose a distinct, loud alert tone (or tap **Upload Sound** to use a custom `.mp3`/`.ogg` alarm file).
+6. *(Optional)* Set **Importance / Priority** to **Urgent** and enable **Override Do Not Disturb** in your phone's notification channel settings if you want alerts to bypass silent mode.
+
+### On iOS (iPhone / iPad)
+1. Open the chat with your Telegram bot.
+2. Tap the **bot's name** at the top of the screen.
+3. Tap **Mute** > **Customize** (or **Sound**).
+4. Select a distinct Telegram alert tone or upload a custom sound file (under 5 seconds and 300 KB).
+5. *(Optional)* Add the Telegram app to your **Allowed Apps** under iOS **Settings > Focus > Do Not Disturb** so urgent alerts still ring through.
+
+---
+
 ## Configuration Constants
 All tunable parameters are defined at the top of `src/Code.gs`:
 
