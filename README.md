@@ -44,7 +44,7 @@ gmail-telegram-alerts/
 2. Start the bot and copy your numeric **Id**.
 
 ### Step 3: Set Up the Google Apps Script Project
-1. Open [Google Apps Script](https://google.com) and click **New Project**.
+1. Open [Google Apps Script](https://script.google.com/home) and click **New Project**.
 2. In the left sidebar, click the **+** icon next to **Services**, select **Gmail API**, and click **Add**.
 3. Click **Project Settings** (the gear icon ⚙️) and check **Show "appsscript.json" manifest file in editor**.
 4. Return to the **Editor** (`< >` icon):
